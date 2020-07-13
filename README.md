@@ -1,4 +1,8 @@
-# Angular2Fundamentals
+# Getting Started with Angular Course Code
+
+The code in this repository corresponds with the [Get Started with Angular](https://egghead.io/courses/get-started-with-angular) course on egghead.io.
+
+The code for each lesson can be found in the branch with the corresponding name.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
